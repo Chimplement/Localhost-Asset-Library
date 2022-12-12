@@ -33,6 +33,7 @@ Localhost Asset Library is a way to easily import the reusable parts of your God
 > >6. Optionaly you can add a png file called `icon.png` as the icon of the asset.
 > >
 > > see `\assets\Example Category\Example Asset` for an example of how to add an asset.
+> > If newly added assets arent apearing you might need to restart the http server.
 >
 > >### Stopping The Server
 > >
