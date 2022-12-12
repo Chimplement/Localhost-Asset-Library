@@ -1,0 +1,10 @@
+{
+    "title": "Example Asset",
+    "godot_version": "3.5",
+    "author": "Chimplement",
+    "support_level": "comunity",
+    "version" : "1",
+    "version_string" : "1.0.0",
+    "type": "addon",
+    "description": "An example local asset library asset!"
+}
