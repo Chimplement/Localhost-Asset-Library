@@ -1,6 +1,6 @@
 # Localhost Asset Library
 
-Localhost Asset Library is a way to easily import the reusable parts of your Godot projects to new projects. It provides a way to import your assets from the asset library, without having them be publicly available. This is done by hosting a local http server that mimics the asset libraries API and accesing it in the asset library in the Godot editor.
+Localhost Asset Library is a way to easily import the reusable parts of your Godot projects to new projects. It provides a way to import your assets from the asset library, without having them be publicly available. This is done by hosting a local http server that mimics the asset libraries API and accesing it in the asset library in the Godot editor. I made this because I didn't like having to manualy open my folder with reusable code and copying it to the right place in my new project.
 
 > ## How To Install
 >
