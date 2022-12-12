@@ -4,7 +4,7 @@ Localhost Asset Library is a way to easily import the reusable parts of your God
 
 > ## How To Install
 >
->1. Download and install [Node.js](nodejs.org).
+>1. Download and install [Node.js](https://nodejs.org).
 >2. Download or clone this repository.
 >3. Run the server.
 >    -   On windows run `run_hidden.bat` to start the server or add a shortcut to your startup folder.
@@ -46,3 +46,4 @@ Localhost Asset Library is a way to easily import the reusable parts of your God
 >- Allow for example images to be added to an asset.
 >- Add more options to the Interface page.
 >- Add run files for linux and mac os.
+>- Create Tutorial on my [Youtube Channel](https://www.youtube.com/channel/UCVnUJ4xuUQAG1r43Uzx3aBg)
