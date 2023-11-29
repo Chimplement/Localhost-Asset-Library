@@ -44,9 +44,4 @@ Localhost Asset Library is a way to easily import the reusable parts of your God
 
 >## Future Plans
 >
->Here are the things I plan on adding in the future.
->
->- Allow for example images to be added to an asset.
->- Add more options to the Interface page.
->- Add run files for linux and mac os.
->- Create Tutorial on my [Youtube Channel](https://www.youtube.com/channel/UCVnUJ4xuUQAG1r43Uzx3aBg)
+>There are currently no plans to add more features to this project.
